@@ -1,11 +1,10 @@
 Package: CATools
 Type: Package
 Title: CATools
-Version: 0.1.0
+Version: 0.1.0.1
 Author: kazuo fujimoto
 Maintainer: The package maintainer <kazuo.fujimoto2007@gmail.com>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: オーム社刊の『対応分析入門』のサポートスクイｒプト
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
