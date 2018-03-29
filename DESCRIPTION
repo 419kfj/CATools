@@ -4,7 +4,7 @@ Title: CATools
 Version: 0.1.0.1
 Author: kazuo fujimoto
 Maintainer: The package maintainer <kazuo.fujimoto2007@gmail.com>
-Description: オーム社刊の『対応分析入門』のサポートスクイリプト
+Description: オーム社刊の『対応分析入門』のサポートスクリプト
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
